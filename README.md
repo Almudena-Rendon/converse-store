@@ -19,8 +19,7 @@ Landing page for the Converse store built using React, Vite, JavaScript and Tail
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/converse-store-landing-page.git
+   git clone https://github.com/Almudena-Rendon/converse-store.git
 
 2. Navigate to the project
 
