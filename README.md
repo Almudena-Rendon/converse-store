@@ -1,8 +1,41 @@
-# React + Vite
+# Converse Store Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page for the Converse store built using React, Vite, JavaScript and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design
+- Clean and modern UI
+- Easily customizable
+
+## Technologies Used
+
+- React
+- Vite
+- Javascript
+- Tailwind CSS
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/converse-store-landing-page.git
+
+2. Navigate to the project
+
+   cd converse-store-landing-page
+   
+4. Install dependencies
+
+   npm install
+   
+6. Run the development server
+
+   npm run dev
+
+   Open http://localhost:3000 in your browser to view the app.
+
+Author
+Almudena Rendón Fernández
+
