@@ -13,7 +13,7 @@ const PopularProductCard = ({ imgURL, name, price, isLast }) => {
     if (isLast) {
       intervalId = setInterval(() => {
         setCurrentIndex((prevIndex) => (prevIndex + 1) % products.length);
-      }, 1500);
+      }, 1000);
     }
 
     return () => clearInterval(intervalId);
