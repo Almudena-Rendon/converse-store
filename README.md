@@ -6,7 +6,7 @@
 
 Landing page for the Converse store built using React, Vite, JavaScript and Tailwind CSS.
 
-# Live Demo
+## Live Demo
 
 https://converse-store.vercel.app/
 
