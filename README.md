@@ -1,13 +1,13 @@
 
 ![converse_github](https://github.com/Almudena-Rendon/converse-store/assets/126793941/de4b2422-1d3e-4911-80f4-0377f7282767)
 
-# Converse Store Landing Page
-
-Landing page for the Converse store built using React, Vite, JavaScript and Tailwind CSS.
-
 # Live Demo
 
 https://converse-store.vercel.app/
+
+# Converse Store Landing Page
+
+Landing page for the Converse store built using React, Vite, JavaScript and Tailwind CSS.
 
 ## Features
 
