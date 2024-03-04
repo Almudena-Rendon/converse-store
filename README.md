@@ -15,7 +15,7 @@ https://converse-store.vercel.app/
 - Clean and modern UI
 - Easily customizable
 
-## Technologies Used
+## Tech Stack
 
 - React
 - Vite
