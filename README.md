@@ -35,15 +35,13 @@ https://converse-store.vercel.app/
 
    cd converse-store-landing-page
    
-4. Install dependencies
+3. Install dependencies
 
    npm install
    
-6. Run the development server
+4. Run the development server
 
    npm run dev
-
-   Open http://localhost:3000 in your browser to view the app.
 
 ## Author
 
