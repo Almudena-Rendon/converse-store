@@ -1,7 +1,6 @@
 
 ![converse_github](https://github.com/Almudena-Rendon/converse-store/assets/126793941/de4b2422-1d3e-4911-80f4-0377f7282767)
-![image](https://github.com/Almudena-Rendon/converse-store/assets/126793941/30d21372-8b38-4acd-a795-9d2bb1c32ff5)
-
+![image](https://github.com/Almudena-Rendon/converse-store/assets/126793941/0900bca6-7f6d-4e09-86de-695603887358)
 
 
 # Converse Store Landing Page
