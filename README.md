@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://github.com/Almudena-Rendon/converse-store/assets/126793941/de4b2422-1d3e-4911-80f4-0377f7282767" alt="Image 1" width="600"/>
   <img src="https://github.com/Almudena-Rendon/converse-store/assets/126793941/0900bca6-7f6d-4e09-86de-695603887358" alt="Image 2" width="200"/>
 </div>
