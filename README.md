@@ -43,7 +43,4 @@ https://converse-store.vercel.app/
 
    npm run dev
 
-## Author
-
-Almudena Rendón Fernández
 
