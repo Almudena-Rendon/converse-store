@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github.com/Almudena-Rendon/converse-store/assets/126793941/de4b2422-1d3e-4911-80f4-0377f7282767" alt="Image 1" width="600"/>
-  <img src="https://github.com/Almudena-Rendon/converse-store/assets/126793941/0900bca6-7f6d-4e09-86de-695603887358" alt="Image 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4a74b133-e27f-4b12-ae1f-2b7ed645c5c3" alt="Image 1" width="600"/>
+  <img src="https://github.com/user-attachments/assets/679946eb-9105-4305-8462-5fd37c6f0fd3" alt="Image 2" width="200"/>
 </div>
 
 
