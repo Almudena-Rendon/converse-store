@@ -1,7 +1,5 @@
-<div style="display: flex; justify-content: center">
-  <img src="https://github.com/user-attachments/assets/4a74b133-e27f-4b12-ae1f-2b7ed645c5c3" alt="Image 1" width="400"/>
-  <img src="https://github.com/user-attachments/assets/679946eb-9105-4305-8462-5fd37c6f0fd3" alt="Image 2" width="400"/>
-</div>
+
+![freepik__background__30320](https://github.com/user-attachments/assets/d496047b-ea11-4b90-8c28-fbb8327a37e1)
 
 # Converse Store Landing Page
 
